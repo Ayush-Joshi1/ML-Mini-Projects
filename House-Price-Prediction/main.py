@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 
 # Load Dataset
-house_data = pd.read_csv("House Price Prediction/house_data.csv")
+house_data = pd.read_csv(r'House Price Prediction/house_data.csv',sep='\t')
 
 print(house_data.head())
 
