@@ -176,5 +176,3 @@ Through these projects, I learned:
 ## Author
 
 **Ayush Joshi**
-
-Aspiring Software Developer | AI & ML Enthusiast | Cloud Computing Learner
